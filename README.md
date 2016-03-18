@@ -7,3 +7,6 @@ To run it, run `cell_boundary.m` and navigate to the folder containing the test 
 <img src="./cell_boundary/cell.png" width="50%" />
 </p>
 
+ `calcium_channels` contains code used to model frequency response of calcium channels in smooth muscle cells.
+
+`tube_vesselness` contains an implementation of a 'tubeness' filter that segments tube like structures, such as newly formed blood vessels well.
